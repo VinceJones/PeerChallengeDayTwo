@@ -86,4 +86,6 @@ value = dropChar(value);
 //---------------------
 console.log(value);
 
+document.getElementById("endValue").innerHTML = "The answer to everything is: "+value;
+
 
