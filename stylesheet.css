@@ -12,7 +12,8 @@
 }
 
 .body .prime {
-	margin-left: 39.5%;
+	display: block;
+	margin: 0 auto;
 }
 
 #endValue {
